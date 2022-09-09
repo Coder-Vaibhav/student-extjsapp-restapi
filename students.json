@@ -1,0 +1,8 @@
+{
+    "collection": [
+        { "firstName": "Jean", "lastName": "lion", "email": "jeanluc.picard@enterprise.com", "address": "555-111-1111" },
+        { "firstName": "Jean", "lastName": "lipn", "email": "worf.moghsson@enterprise.com", "address": "555-222-2222" },
+        { "firstName": "Deanna", "email": "deanna.troi@enterprise.com", "address": "555-333-3333" },
+        { "firstName": "Data", "email": "mr.data@enterprise.com", "address": "555-444-4444" }
+    ]
+}
